@@ -1,0 +1,30 @@
+.navbar {
+    transition: background-color 0.5s ease;
+    background-color: #343434;
+    height:2.5rem;
+    width:100%;
+    display: flex;
+    color:#333;
+    float: right;
+    margin: 0.5rem;
+    padding: 0.5rem;
+    margin-left: 800px;
+  }
+  #navbar-brand{
+    float: left;
+  }
+  
+  .navbar-nav .nav-link {
+    color: #333;
+    transition: color 0.3s ease;
+  }
+  
+  .navbar-nav .nav-link:hover {
+    color: #f00;
+  }
+  .nav-item{
+   
+  }
+  #navbarNav{
+    background-color: #343434;
+  }
